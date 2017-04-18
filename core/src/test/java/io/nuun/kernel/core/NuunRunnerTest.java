@@ -4,6 +4,7 @@ import org.junit.Test;
 
 public class NuunRunnerTest
 {
+    @Ent
     public static class MyApp {
         
     }
